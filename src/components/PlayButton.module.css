@@ -1,0 +1,14 @@
+.btnText {
+  padding: 8px 12px;
+  border: 0px solid;
+  border-radius: 4px;
+  background-image: linear-gradient(
+    to right,
+    rgb(174, 174, 229),
+    rgb(255, 183, 0)
+  );
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 8px 16px;
+  user-select: none;
+  margin-top: 20px;
+}
